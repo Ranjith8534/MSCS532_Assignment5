@@ -66,7 +66,7 @@ python randomized_quicksort.py
 ###  Files Included
 
 - `quicksort.py`  
-- `randomized_quicksort.py` → Priority Queue implementation  
+- `randomized_quicksort.py` 
 - `report.docx` → Project documentation 
 - `README.md` → Project documentation  
 
